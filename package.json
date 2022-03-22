@@ -1,0 +1,7 @@
+{
+  "name": "com.idaeldev.parametricsurfaces",
+  "version": "1.0.0",
+  "displayName": "Idael Parametric Surfaces",
+  "description": "Collection of parametric surface function",
+  "type": "library"
+}
